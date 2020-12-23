@@ -1,0 +1,337 @@
+C:\Users\Yoda\source\repos\basic\basic\obj\x86\Debug\basic.csprojAssemblyReference.cache
+C:\Users\Yoda\source\repos\basic\basic\obj\x86\Debug\basic.csproj.CoreCompileInputs.cache
+C:\Users\Yoda\source\repos\basic\basic\bin\Windows\x86\Debug\Content\cars\car.xnb
+C:\Users\Yoda\source\repos\basic\basic\bin\Windows\x86\Debug\basic.exe
+C:\Users\Yoda\source\repos\basic\basic\bin\Windows\x86\Debug\basic.pdb
+C:\Users\Yoda\source\repos\basic\basic\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Yoda\source\repos\basic\basic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Yoda\source\repos\basic\basic\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Yoda\source\repos\basic\basic\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Yoda\source\repos\basic\basic\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Yoda\source\repos\basic\basic\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Yoda\source\repos\basic\basic\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Yoda\source\repos\basic\basic\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Yoda\source\repos\basic\basic\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Yoda\source\repos\basic\basic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Yoda\source\repos\basic\basic\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Yoda\source\repos\basic\basic\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Yoda\source\repos\basic\basic\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Yoda\source\repos\basic\basic\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Yoda\source\repos\basic\basic\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Yoda\source\repos\basic\basic\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Yoda\source\repos\basic\basic\obj\x86\Debug\basic.csproj.CopyComplete
+C:\Users\Yoda\source\repos\basic\basic\obj\x86\Debug\basic.exe
+C:\Users\Yoda\source\repos\basic\basic\obj\x86\Debug\basic.pdb
+C:\Users\Yoda\source\repos\floppybird\basic\bin\Windows\x86\Debug\Content\cars\car.xnb
+C:\Users\Yoda\source\repos\floppybird\basic\bin\Windows\x86\Debug\basic.exe
+C:\Users\Yoda\source\repos\floppybird\basic\bin\Windows\x86\Debug\basic.pdb
+C:\Users\Yoda\source\repos\floppybird\basic\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Yoda\source\repos\floppybird\basic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Yoda\source\repos\floppybird\basic\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Yoda\source\repos\floppybird\basic\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Yoda\source\repos\floppybird\basic\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Yoda\source\repos\floppybird\basic\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Yoda\source\repos\floppybird\basic\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Yoda\source\repos\floppybird\basic\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Yoda\source\repos\floppybird\basic\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Yoda\source\repos\floppybird\basic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Yoda\source\repos\floppybird\basic\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Yoda\source\repos\floppybird\basic\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Yoda\source\repos\floppybird\basic\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Yoda\source\repos\floppybird\basic\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Yoda\source\repos\floppybird\basic\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Yoda\source\repos\floppybird\basic\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Yoda\source\repos\floppybird\basic\obj\x86\Debug\basic.csprojAssemblyReference.cache
+C:\Users\Yoda\source\repos\floppybird\basic\obj\x86\Debug\basic.csproj.CoreCompileInputs.cache
+C:\Users\Yoda\source\repos\floppybird\basic\obj\x86\Debug\basic.csproj.CopyComplete
+C:\Users\Yoda\source\repos\floppybird\basic\obj\x86\Debug\basic.exe
+C:\Users\Yoda\source\repos\floppybird\basic\obj\x86\Debug\basic.pdb
+C:\Users\Yoda\source\repos\floppybird\basic\bin\Windows\x86\Debug\Content\birds\dino.xnb
+C:\Users\Yoda\source\repos\floppybird\basic\bin\Windows\x86\Debug\Content\birds\dinozzzgf.xnb
+C:\Users\Yoda\source\repos\floppybird\basic\bin\Windows\x86\Debug\Content\dino.xnb
+C:\Users\Yoda\Desktop\yooval\floppybird\basic\bin\Windows\x86\Debug\Content\birds\dino.xnb
+C:\Users\Yoda\Desktop\yooval\floppybird\basic\bin\Windows\x86\Debug\Content\dino.xnb
+C:\Users\Yoda\Desktop\yooval\floppybird\basic\bin\Windows\x86\Debug\basic.exe
+C:\Users\Yoda\Desktop\yooval\floppybird\basic\bin\Windows\x86\Debug\basic.pdb
+C:\Users\Yoda\Desktop\yooval\floppybird\basic\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Yoda\Desktop\yooval\floppybird\basic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Yoda\Desktop\yooval\floppybird\basic\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Yoda\Desktop\yooval\floppybird\basic\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Yoda\Desktop\yooval\floppybird\basic\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Yoda\Desktop\yooval\floppybird\basic\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Yoda\Desktop\yooval\floppybird\basic\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Yoda\Desktop\yooval\floppybird\basic\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Yoda\Desktop\yooval\floppybird\basic\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Yoda\Desktop\yooval\floppybird\basic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Yoda\Desktop\yooval\floppybird\basic\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Yoda\Desktop\yooval\floppybird\basic\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Yoda\Desktop\yooval\floppybird\basic\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Yoda\Desktop\yooval\floppybird\basic\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Yoda\Desktop\yooval\floppybird\basic\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Yoda\Desktop\yooval\floppybird\basic\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Yoda\Desktop\yooval\floppybird\basic\obj\x86\Debug\basic.csproj.CoreCompileInputs.cache
+C:\Users\Yoda\Desktop\yooval\floppybird\basic\obj\x86\Debug\basic.csproj.CopyComplete
+C:\Users\Yoda\Desktop\yooval\floppybird\basic\obj\x86\Debug\basic.exe
+C:\Users\Yoda\Desktop\yooval\floppybird\basic\obj\x86\Debug\basic.pdb
+C:\Users\Yoda\Desktop\yooval\floppybirdwork\basic\bin\Windows\x86\Debug\Content\birds\dino.xnb
+C:\Users\Yoda\Desktop\yooval\floppybirdwork\basic\bin\Windows\x86\Debug\Content\dino.xnb
+C:\Users\Yoda\Desktop\yooval\floppybirdwork\basic\bin\Windows\x86\Debug\basic.exe
+C:\Users\Yoda\Desktop\yooval\floppybirdwork\basic\bin\Windows\x86\Debug\basic.pdb
+C:\Users\Yoda\Desktop\yooval\floppybirdwork\basic\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Yoda\Desktop\yooval\floppybirdwork\basic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Yoda\Desktop\yooval\floppybirdwork\basic\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Yoda\Desktop\yooval\floppybirdwork\basic\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Yoda\Desktop\yooval\floppybirdwork\basic\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Yoda\Desktop\yooval\floppybirdwork\basic\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Yoda\Desktop\yooval\floppybirdwork\basic\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Yoda\Desktop\yooval\floppybirdwork\basic\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Yoda\Desktop\yooval\floppybirdwork\basic\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Yoda\Desktop\yooval\floppybirdwork\basic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Yoda\Desktop\yooval\floppybirdwork\basic\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Yoda\Desktop\yooval\floppybirdwork\basic\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Yoda\Desktop\yooval\floppybirdwork\basic\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Yoda\Desktop\yooval\floppybirdwork\basic\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Yoda\Desktop\yooval\floppybirdwork\basic\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Yoda\Desktop\yooval\floppybirdwork\basic\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Yoda\Desktop\yooval\floppybirdwork\basic\obj\x86\Debug\basic.csproj.CoreCompileInputs.cache
+C:\Users\Yoda\Desktop\yooval\floppybirdwork\basic\obj\x86\Debug\basic.csproj.CopyComplete
+C:\Users\Yoda\Desktop\yooval\floppybirdwork\basic\obj\x86\Debug\basic.exe
+C:\Users\Yoda\Desktop\yooval\floppybirdwork\basic\obj\x86\Debug\basic.pdb
+C:\Users\Yoda\Desktop\yooval\floppybirdwork\basic\obj\x86\Debug\basic.csprojAssemblyReference.cache
+C:\Users\Yoda\Desktop\yooval\mlrace\basic\obj\x86\Debug\basic.csprojAssemblyReference.cache
+C:\Users\Yoda\Desktop\yooval\mlrace\basic\obj\x86\Debug\basic.csproj.CoreCompileInputs.cache
+C:\Users\Yoda\Desktop\yooval\mlrace\basic\obj\x86\Debug\basic.exe
+C:\Users\Yoda\Desktop\yooval\mlrace\basic\obj\x86\Debug\basic.pdb
+C:\Users\Yoda\Desktop\yooval\mlrace\basic\bin\Windows\x86\Debug\Content\birds\dino.xnb
+C:\Users\Yoda\Desktop\yooval\mlrace\basic\bin\Windows\x86\Debug\Content\dino.xnb
+C:\Users\Yoda\Desktop\yooval\mlrace\basic\bin\Windows\x86\Debug\basic.exe
+C:\Users\Yoda\Desktop\yooval\mlrace\basic\bin\Windows\x86\Debug\basic.pdb
+C:\Users\Yoda\Desktop\yooval\mlrace\basic\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Yoda\Desktop\yooval\mlrace\basic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Yoda\Desktop\yooval\mlrace\basic\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Yoda\Desktop\yooval\mlrace\basic\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Yoda\Desktop\yooval\mlrace\basic\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Yoda\Desktop\yooval\mlrace\basic\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Yoda\Desktop\yooval\mlrace\basic\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Yoda\Desktop\yooval\mlrace\basic\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Yoda\Desktop\yooval\mlrace\basic\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Yoda\Desktop\yooval\mlrace\basic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Yoda\Desktop\yooval\mlrace\basic\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Yoda\Desktop\yooval\mlrace\basic\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Yoda\Desktop\yooval\mlrace\basic\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Yoda\Desktop\yooval\mlrace\basic\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Yoda\Desktop\yooval\mlrace\basic\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Yoda\Desktop\yooval\mlrace\basic\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Yoda\Desktop\yooval\mlrace\basic\obj\x86\Debug\basic.csproj.CopyComplete
+C:\Users\Yoda\Desktop\yooval\mlrace\basic\bin\Windows\x86\Debug\Content\car.xnb
+C:\Users\Yoda\Desktop\yooval\mlrace\basic\bin\Windows\x86\Debug\Content\track.xnb
+C:\Users\Yuval\Desktop\mlrace v03 rays\basic\bin\Windows\x86\Debug\Content\birds\dino.xnb
+C:\Users\Yuval\Desktop\mlrace v03 rays\basic\bin\Windows\x86\Debug\Content\car.xnb
+C:\Users\Yuval\Desktop\mlrace v03 rays\basic\bin\Windows\x86\Debug\Content\dino.xnb
+C:\Users\Yuval\Desktop\mlrace v03 rays\basic\bin\Windows\x86\Debug\Content\track.xnb
+C:\Users\Yuval\Desktop\mlrace v03 rays\basic\bin\Windows\x86\Debug\basic.exe
+C:\Users\Yuval\Desktop\mlrace v03 rays\basic\bin\Windows\x86\Debug\basic.pdb
+C:\Users\Yuval\Desktop\mlrace v03 rays\basic\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Yuval\Desktop\mlrace v03 rays\basic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Yuval\Desktop\mlrace v03 rays\basic\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Yuval\Desktop\mlrace v03 rays\basic\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Yuval\Desktop\mlrace v03 rays\basic\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Yuval\Desktop\mlrace v03 rays\basic\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Yuval\Desktop\mlrace v03 rays\basic\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Yuval\Desktop\mlrace v03 rays\basic\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Yuval\Desktop\mlrace v03 rays\basic\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Yuval\Desktop\mlrace v03 rays\basic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Yuval\Desktop\mlrace v03 rays\basic\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Yuval\Desktop\mlrace v03 rays\basic\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Yuval\Desktop\mlrace v03 rays\basic\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Yuval\Desktop\mlrace v03 rays\basic\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Yuval\Desktop\mlrace v03 rays\basic\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Yuval\Desktop\mlrace v03 rays\basic\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Yuval\Desktop\mlrace v03 rays\basic\obj\x86\Debug\basic.csprojAssemblyReference.cache
+C:\Users\Yuval\Desktop\mlrace v03 rays\basic\obj\x86\Debug\basic.csproj.CopyComplete
+C:\Users\Yuval\Desktop\mlrace v03 rays\basic\obj\x86\Debug\basic.exe
+C:\Users\Yuval\Desktop\mlrace v03 rays\basic\obj\x86\Debug\basic.pdb
+C:\Users\Yuval\Desktop\mlrace versions\18630\basic\bin\Windows\x86\Debug\Content\birds\dino.xnb
+C:\Users\Yuval\Desktop\mlrace versions\18630\basic\bin\Windows\x86\Debug\Content\car.xnb
+C:\Users\Yuval\Desktop\mlrace versions\18630\basic\bin\Windows\x86\Debug\Content\dino.xnb
+C:\Users\Yuval\Desktop\mlrace versions\18630\basic\bin\Windows\x86\Debug\Content\track.xnb
+C:\Users\Yuval\Desktop\mlrace versions\18630\basic\bin\Windows\x86\Debug\basic.exe
+C:\Users\Yuval\Desktop\mlrace versions\18630\basic\bin\Windows\x86\Debug\basic.pdb
+C:\Users\Yuval\Desktop\mlrace versions\18630\basic\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Yuval\Desktop\mlrace versions\18630\basic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Yuval\Desktop\mlrace versions\18630\basic\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Yuval\Desktop\mlrace versions\18630\basic\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Yuval\Desktop\mlrace versions\18630\basic\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Yuval\Desktop\mlrace versions\18630\basic\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Yuval\Desktop\mlrace versions\18630\basic\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Yuval\Desktop\mlrace versions\18630\basic\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Yuval\Desktop\mlrace versions\18630\basic\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Yuval\Desktop\mlrace versions\18630\basic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Yuval\Desktop\mlrace versions\18630\basic\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Yuval\Desktop\mlrace versions\18630\basic\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Yuval\Desktop\mlrace versions\18630\basic\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Yuval\Desktop\mlrace versions\18630\basic\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Yuval\Desktop\mlrace versions\18630\basic\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Yuval\Desktop\mlrace versions\18630\basic\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Yuval\Desktop\mlrace versions\18630\basic\obj\x86\Debug\basic.csprojAssemblyReference.cache
+C:\Users\Yuval\Desktop\mlrace versions\18630\basic\obj\x86\Debug\basic.csproj.CopyComplete
+C:\Users\Yuval\Desktop\mlrace versions\18630\basic\obj\x86\Debug\basic.exe
+C:\Users\Yuval\Desktop\mlrace versions\18630\basic\obj\x86\Debug\basic.pdb
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200524T080114Z-001\mlrace\basic\bin\Windows\x86\Debug\Content\birds\dino.xnb
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200524T080114Z-001\mlrace\basic\bin\Windows\x86\Debug\Content\car.xnb
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200524T080114Z-001\mlrace\basic\bin\Windows\x86\Debug\Content\dino.xnb
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200524T080114Z-001\mlrace\basic\bin\Windows\x86\Debug\Content\track.xnb
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200524T080114Z-001\mlrace\basic\bin\Windows\x86\Debug\basic.exe
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200524T080114Z-001\mlrace\basic\bin\Windows\x86\Debug\basic.pdb
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200524T080114Z-001\mlrace\basic\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200524T080114Z-001\mlrace\basic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200524T080114Z-001\mlrace\basic\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200524T080114Z-001\mlrace\basic\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200524T080114Z-001\mlrace\basic\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200524T080114Z-001\mlrace\basic\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200524T080114Z-001\mlrace\basic\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200524T080114Z-001\mlrace\basic\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200524T080114Z-001\mlrace\basic\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200524T080114Z-001\mlrace\basic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200524T080114Z-001\mlrace\basic\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200524T080114Z-001\mlrace\basic\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200524T080114Z-001\mlrace\basic\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200524T080114Z-001\mlrace\basic\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200524T080114Z-001\mlrace\basic\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200524T080114Z-001\mlrace\basic\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200524T080114Z-001\mlrace\basic\obj\x86\Debug\basic.csprojAssemblyReference.cache
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200524T080114Z-001\mlrace\basic\obj\x86\Debug\basic.csproj.CoreCompileInputs.cache
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200524T080114Z-001\mlrace\basic\obj\x86\Debug\basic.csproj.CopyComplete
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200524T080114Z-001\mlrace\basic\obj\x86\Debug\basic.exe
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200524T080114Z-001\mlrace\basic\obj\x86\Debug\basic.pdb
+C:\Users\teacher\Desktop\mlrace-20200524\mlrace\basic\bin\Windows\x86\Debug\Content\birds\dino.xnb
+C:\Users\teacher\Desktop\mlrace-20200524\mlrace\basic\bin\Windows\x86\Debug\Content\car.xnb
+C:\Users\teacher\Desktop\mlrace-20200524\mlrace\basic\bin\Windows\x86\Debug\Content\dino.xnb
+C:\Users\teacher\Desktop\mlrace-20200524\mlrace\basic\bin\Windows\x86\Debug\Content\track.xnb
+C:\Users\teacher\Desktop\mlrace-20200524\mlrace\basic\bin\Windows\x86\Debug\basic.exe
+C:\Users\teacher\Desktop\mlrace-20200524\mlrace\basic\bin\Windows\x86\Debug\basic.pdb
+C:\Users\teacher\Desktop\mlrace-20200524\mlrace\basic\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\teacher\Desktop\mlrace-20200524\mlrace\basic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\teacher\Desktop\mlrace-20200524\mlrace\basic\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\teacher\Desktop\mlrace-20200524\mlrace\basic\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\teacher\Desktop\mlrace-20200524\mlrace\basic\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\teacher\Desktop\mlrace-20200524\mlrace\basic\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\teacher\Desktop\mlrace-20200524\mlrace\basic\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\teacher\Desktop\mlrace-20200524\mlrace\basic\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\teacher\Desktop\mlrace-20200524\mlrace\basic\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\teacher\Desktop\mlrace-20200524\mlrace\basic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\teacher\Desktop\mlrace-20200524\mlrace\basic\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\teacher\Desktop\mlrace-20200524\mlrace\basic\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\teacher\Desktop\mlrace-20200524\mlrace\basic\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\teacher\Desktop\mlrace-20200524\mlrace\basic\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\teacher\Desktop\mlrace-20200524\mlrace\basic\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\teacher\Desktop\mlrace-20200524\mlrace\basic\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\teacher\Desktop\mlrace-20200524\mlrace\basic\obj\x86\Debug\basic.csprojAssemblyReference.cache
+C:\Users\teacher\Desktop\mlrace-20200524\mlrace\basic\obj\x86\Debug\basic.csproj.CopyComplete
+C:\Users\teacher\Desktop\mlrace-20200524\mlrace\basic\obj\x86\Debug\basic.exe
+C:\Users\teacher\Desktop\mlrace-20200524\mlrace\basic\obj\x86\Debug\basic.pdb
+C:\Users\teacher\Desktop\mlrace-20200607\mlrace\basic\obj\x86\Debug\basic.csprojAssemblyReference.cache
+C:\Users\teacher\Desktop\mlrace-20200607\mlrace\basic\obj\x86\Debug\basic.exe
+C:\Users\teacher\Desktop\mlrace-20200607\mlrace\basic\obj\x86\Debug\basic.pdb
+C:\Users\teacher\Desktop\mlrace-20200607\mlrace\basic\bin\Windows\x86\Debug\Content\birds\dino.xnb
+C:\Users\teacher\Desktop\mlrace-20200607\mlrace\basic\bin\Windows\x86\Debug\Content\car.xnb
+C:\Users\teacher\Desktop\mlrace-20200607\mlrace\basic\bin\Windows\x86\Debug\Content\dino.xnb
+C:\Users\teacher\Desktop\mlrace-20200607\mlrace\basic\bin\Windows\x86\Debug\Content\track.xnb
+C:\Users\teacher\Desktop\mlrace-20200607\mlrace\basic\bin\Windows\x86\Debug\basic.exe
+C:\Users\teacher\Desktop\mlrace-20200607\mlrace\basic\bin\Windows\x86\Debug\basic.pdb
+C:\Users\teacher\Desktop\mlrace-20200607\mlrace\basic\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\teacher\Desktop\mlrace-20200607\mlrace\basic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\teacher\Desktop\mlrace-20200607\mlrace\basic\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\teacher\Desktop\mlrace-20200607\mlrace\basic\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\teacher\Desktop\mlrace-20200607\mlrace\basic\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\teacher\Desktop\mlrace-20200607\mlrace\basic\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\teacher\Desktop\mlrace-20200607\mlrace\basic\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\teacher\Desktop\mlrace-20200607\mlrace\basic\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\teacher\Desktop\mlrace-20200607\mlrace\basic\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\teacher\Desktop\mlrace-20200607\mlrace\basic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\teacher\Desktop\mlrace-20200607\mlrace\basic\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\teacher\Desktop\mlrace-20200607\mlrace\basic\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\teacher\Desktop\mlrace-20200607\mlrace\basic\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\teacher\Desktop\mlrace-20200607\mlrace\basic\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\teacher\Desktop\mlrace-20200607\mlrace\basic\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\teacher\Desktop\mlrace-20200607\mlrace\basic\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\teacher\Desktop\mlrace-20200607\mlrace\basic\obj\x86\Debug\basic.csproj.CopyComplete
+C:\Users\teacher\Desktop\mlrace-20200614\mlrace\basic\bin\Windows\x86\Debug\Content\birds\dino.xnb
+C:\Users\teacher\Desktop\mlrace-20200614\mlrace\basic\bin\Windows\x86\Debug\Content\car.xnb
+C:\Users\teacher\Desktop\mlrace-20200614\mlrace\basic\bin\Windows\x86\Debug\Content\dino.xnb
+C:\Users\teacher\Desktop\mlrace-20200614\mlrace\basic\bin\Windows\x86\Debug\Content\track.xnb
+C:\Users\teacher\Desktop\mlrace-20200614\mlrace\basic\bin\Windows\x86\Debug\basic.exe
+C:\Users\teacher\Desktop\mlrace-20200614\mlrace\basic\bin\Windows\x86\Debug\basic.pdb
+C:\Users\teacher\Desktop\mlrace-20200614\mlrace\basic\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\teacher\Desktop\mlrace-20200614\mlrace\basic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\teacher\Desktop\mlrace-20200614\mlrace\basic\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\teacher\Desktop\mlrace-20200614\mlrace\basic\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\teacher\Desktop\mlrace-20200614\mlrace\basic\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\teacher\Desktop\mlrace-20200614\mlrace\basic\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\teacher\Desktop\mlrace-20200614\mlrace\basic\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\teacher\Desktop\mlrace-20200614\mlrace\basic\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\teacher\Desktop\mlrace-20200614\mlrace\basic\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\teacher\Desktop\mlrace-20200614\mlrace\basic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\teacher\Desktop\mlrace-20200614\mlrace\basic\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\teacher\Desktop\mlrace-20200614\mlrace\basic\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\teacher\Desktop\mlrace-20200614\mlrace\basic\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\teacher\Desktop\mlrace-20200614\mlrace\basic\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\teacher\Desktop\mlrace-20200614\mlrace\basic\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\teacher\Desktop\mlrace-20200614\mlrace\basic\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\teacher\Desktop\mlrace-20200614\mlrace\basic\obj\x86\Debug\basic.csprojAssemblyReference.cache
+C:\Users\teacher\Desktop\mlrace-20200614\mlrace\basic\obj\x86\Debug\basic.csproj.CopyComplete
+C:\Users\teacher\Desktop\mlrace-20200614\mlrace\basic\obj\x86\Debug\basic.exe
+C:\Users\teacher\Desktop\mlrace-20200614\mlrace\basic\obj\x86\Debug\basic.pdb
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200628-20200712T135744Z-001\mlrace-20200628\mlrace\basic\bin\Windows\x86\Debug\Content\birds\dino.xnb
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200628-20200712T135744Z-001\mlrace-20200628\mlrace\basic\bin\Windows\x86\Debug\Content\car.xnb
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200628-20200712T135744Z-001\mlrace-20200628\mlrace\basic\bin\Windows\x86\Debug\Content\dino.xnb
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200628-20200712T135744Z-001\mlrace-20200628\mlrace\basic\bin\Windows\x86\Debug\Content\track.xnb
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200628-20200712T135744Z-001\mlrace-20200628\mlrace\basic\bin\Windows\x86\Debug\basic.exe
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200628-20200712T135744Z-001\mlrace-20200628\mlrace\basic\bin\Windows\x86\Debug\basic.pdb
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200628-20200712T135744Z-001\mlrace-20200628\mlrace\basic\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200628-20200712T135744Z-001\mlrace-20200628\mlrace\basic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200628-20200712T135744Z-001\mlrace-20200628\mlrace\basic\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200628-20200712T135744Z-001\mlrace-20200628\mlrace\basic\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200628-20200712T135744Z-001\mlrace-20200628\mlrace\basic\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200628-20200712T135744Z-001\mlrace-20200628\mlrace\basic\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200628-20200712T135744Z-001\mlrace-20200628\mlrace\basic\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200628-20200712T135744Z-001\mlrace-20200628\mlrace\basic\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200628-20200712T135744Z-001\mlrace-20200628\mlrace\basic\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200628-20200712T135744Z-001\mlrace-20200628\mlrace\basic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200628-20200712T135744Z-001\mlrace-20200628\mlrace\basic\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200628-20200712T135744Z-001\mlrace-20200628\mlrace\basic\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200628-20200712T135744Z-001\mlrace-20200628\mlrace\basic\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200628-20200712T135744Z-001\mlrace-20200628\mlrace\basic\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200628-20200712T135744Z-001\mlrace-20200628\mlrace\basic\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200628-20200712T135744Z-001\mlrace-20200628\mlrace\basic\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200628-20200712T135744Z-001\mlrace-20200628\mlrace\basic\obj\x86\Debug\basic.csprojAssemblyReference.cache
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200628-20200712T135744Z-001\mlrace-20200628\mlrace\basic\obj\x86\Debug\basic.csproj.CoreCompileInputs.cache
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200628-20200712T135744Z-001\mlrace-20200628\mlrace\basic\obj\x86\Debug\basic.csproj.CopyComplete
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200628-20200712T135744Z-001\mlrace-20200628\mlrace\basic\obj\x86\Debug\basic.exe
+C:\Users\Yoda\Desktop\yooval\ML  NEW 20200524\mlrace-20200628-20200712T135744Z-001\mlrace-20200628\mlrace\basic\obj\x86\Debug\basic.pdb
+C:\Users\Guy Eshel\Desktop\projects\mlrace\mlrace 200712\basic\bin\Windows\x86\Debug\Content\car.xnb
+C:\Users\Guy Eshel\Desktop\projects\mlrace\mlrace 200712\basic\bin\Windows\x86\Debug\Content\dino.xnb
+C:\Users\Guy Eshel\Desktop\projects\mlrace\mlrace 200712\basic\bin\Windows\x86\Debug\Content\track.xnb
+C:\Users\Guy Eshel\Desktop\projects\mlrace\mlrace 200712\basic\bin\Windows\x86\Debug\basic.exe
+C:\Users\Guy Eshel\Desktop\projects\mlrace\mlrace 200712\basic\bin\Windows\x86\Debug\basic.pdb
+C:\Users\Guy Eshel\Desktop\projects\mlrace\mlrace 200712\basic\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Guy Eshel\Desktop\projects\mlrace\mlrace 200712\basic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Guy Eshel\Desktop\projects\mlrace\mlrace 200712\basic\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Guy Eshel\Desktop\projects\mlrace\mlrace 200712\basic\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Guy Eshel\Desktop\projects\mlrace\mlrace 200712\basic\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Guy Eshel\Desktop\projects\mlrace\mlrace 200712\basic\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Guy Eshel\Desktop\projects\mlrace\mlrace 200712\basic\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Guy Eshel\Desktop\projects\mlrace\mlrace 200712\basic\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Guy Eshel\Desktop\projects\mlrace\mlrace 200712\basic\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Guy Eshel\Desktop\projects\mlrace\mlrace 200712\basic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Guy Eshel\Desktop\projects\mlrace\mlrace 200712\basic\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Guy Eshel\Desktop\projects\mlrace\mlrace 200712\basic\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Guy Eshel\Desktop\projects\mlrace\mlrace 200712\basic\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Guy Eshel\Desktop\projects\mlrace\mlrace 200712\basic\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Guy Eshel\Desktop\projects\mlrace\mlrace 200712\basic\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Guy Eshel\Desktop\projects\mlrace\mlrace 200712\basic\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Guy Eshel\Desktop\projects\mlrace\mlrace 200712\basic\obj\x86\Debug\basic.csprojAssemblyReference.cache
+C:\Users\Guy Eshel\Desktop\projects\mlrace\mlrace 200712\basic\obj\x86\Debug\basic.csproj.CoreCompileInputs.cache
+C:\Users\Guy Eshel\Desktop\projects\mlrace\mlrace 200712\basic\obj\x86\Debug\basic.csproj.CopyComplete
+C:\Users\Guy Eshel\Desktop\projects\mlrace\mlrace 200712\basic\obj\x86\Debug\basic.exe
+C:\Users\Guy Eshel\Desktop\projects\mlrace\mlrace 200712\basic\obj\x86\Debug\basic.pdb

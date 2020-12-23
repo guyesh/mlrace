@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Guy Eshel/Desktop/projects/mlrace/mlrace 200712/basic/Content/car.png</File>
+    <File>C:/Users/Guy Eshel/Desktop/projects/mlrace/mlrace 200712/basic/Content/dino.png</File>
+    <File>C:/Users/Guy Eshel/Desktop/projects/mlrace/mlrace 200712/basic/Content/track.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

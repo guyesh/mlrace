@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Guy Eshel/Desktop/projects/mlrace/mlrace 200712/basic/Content/car.png","C:/Users/Guy Eshel/Desktop/projects/mlrace/mlrace 200712/basic/Content/bin/Windows/Content/car.xnb","TextureProcessor","Texture2DContent",29740,741845,1.574856
+"C:/Users/Guy Eshel/Desktop/projects/mlrace/mlrace 200712/basic/Content/dino.png","C:/Users/Guy Eshel/Desktop/projects/mlrace/mlrace 200712/basic/Content/bin/Windows/Content/dino.xnb","TextureProcessor","Texture2DContent",25859,136045,0.0668217
+"C:/Users/Guy Eshel/Desktop/projects/mlrace/mlrace 200712/basic/Content/track.png","C:/Users/Guy Eshel/Desktop/projects/mlrace/mlrace 200712/basic/Content/bin/Windows/Content/track.xnb","TextureProcessor","Texture2DContent",32028,14069205,1.647214
